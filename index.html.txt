@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Lab Task</title>
+</head>
+
+<body>
+
+<h1>GitHub Collaboration</h1>
+
+<!-- Employee1 -->
+<p>Completed part 1 of lab task</p>
+
+</body>
+</html>
